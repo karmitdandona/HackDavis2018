@@ -88,16 +88,26 @@ def upload_photo():
 
 
 
+    allergens = ["almond", "flour", "peanut", "sugar", "cacao"]
+
     image = types.Image()
     image.source.image_uri = source_uri
     response = vision_client.text_detection(image=image)
     texts = response.text_annotations
-    print(texts)
+
+    description = '\n"{}"'.format(texts[0].description)
+    description = description.lower()
+    results = {} 	#dictionary containing matches
+    for badIngredients in allergens:
+        if badIngredients in description:
+            results[badIngredients] = True
+        else:
+            results[badIngredients] = False
 
 
 
     # Redirect to the home page.
-    return "YAY it works!!!"
+    return results
 
 
 @app.errorhandler(500)
