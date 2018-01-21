@@ -1,0 +1,2263 @@
+[locale: "en"
+description: "e gluten free and non-genetically engineered\nNutrition Total Fat4.5g\n9%\n6% Total Carb. 24g\nDietary Fibar 2g\nTotal Sugars 5g\nola oi\nm nce\nacts\nSat. Fat 0g\non gum erving size Trans Fat 0g\noud r (35) t25Ind. 5g Added ug\nle powder, Calories\nPolyunsat Fat 1g\n961\nIncl. 5g Added Sugars 10\nSugar Alcoho\nProtein 3g\nmon, gum\nMonounsat Fat\nCholesterol 0mg 0%\nSodium 95mg\nVitamin D 0% . Calcium 2% . Iron 6% . P\nrown nce\n4%\nper serving\nSsium\nAllergen Information: Made in a facility that processes peanuts, tree nuts, soy and\nsesame seeds\n6 Made in U.S.A. with donm\nand imported ingredient\n884 IND\n"
+bounding_poly {
+  vertices {
+    x: 1734
+    y: 116
+  }
+  vertices {
+    x: 3071
+    y: 116
+  }
+  vertices {
+    x: 3071
+    y: 1960
+  }
+  vertices {
+    x: 1734
+    y: 1960
+  }
+}
+, description: "e"
+bounding_poly {
+  vertices {
+    x: 1734
+    y: 1956
+  }
+  vertices {
+    x: 1734
+    y: 1938
+  }
+  vertices {
+    x: 1801
+    y: 1938
+  }
+  vertices {
+    x: 1801
+    y: 1956
+  }
+}
+, description: "gluten"
+bounding_poly {
+  vertices {
+    x: 1734
+    y: 1925
+  }
+  vertices {
+    x: 1735
+    y: 1810
+  }
+  vertices {
+    x: 1802
+    y: 1810
+  }
+  vertices {
+    x: 1801
+    y: 1925
+  }
+}
+, description: "free"
+bounding_poly {
+  vertices {
+    x: 1734
+    y: 1785
+  }
+  vertices {
+    x: 1734
+    y: 1718
+  }
+  vertices {
+    x: 1801
+    y: 1718
+  }
+  vertices {
+    x: 1801
+    y: 1785
+  }
+}
+, description: "and"
+bounding_poly {
+  vertices {
+    x: 1736
+    y: 1704
+  }
+  vertices {
+    x: 1736
+    y: 1637
+  }
+  vertices {
+    x: 1803
+    y: 1637
+  }
+  vertices {
+    x: 1803
+    y: 1704
+  }
+}
+, description: "non-genetically"
+bounding_poly {
+  vertices {
+    x: 1736
+    y: 1612
+  }
+  vertices {
+    x: 1737
+    y: 1336
+  }
+  vertices {
+    x: 1804
+    y: 1336
+  }
+  vertices {
+    x: 1803
+    y: 1612
+  }
+}
+, description: "engineered"
+bounding_poly {
+  vertices {
+    x: 1738
+    y: 1322
+  }
+  vertices {
+    x: 1739
+    y: 1127
+  }
+  vertices {
+    x: 1806
+    y: 1127
+  }
+  vertices {
+    x: 1805
+    y: 1322
+  }
+}
+, description: "Nutrition"
+bounding_poly {
+  vertices {
+    x: 1817
+    y: 1726
+  }
+  vertices {
+    x: 1837
+    y: 1263
+  }
+  vertices {
+    x: 1898
+    y: 1266
+  }
+  vertices {
+    x: 1878
+    y: 1729
+  }
+}
+, description: "Total"
+bounding_poly {
+  vertices {
+    x: 1864
+    y: 1240
+  }
+  vertices {
+    x: 1870
+    y: 1106
+  }
+  vertices {
+    x: 1906
+    y: 1108
+  }
+  vertices {
+    x: 1900
+    y: 1242
+  }
+}
+, description: "Fat4.5g"
+bounding_poly {
+  vertices {
+    x: 1862
+    y: 1100
+  }
+  vertices {
+    x: 1871
+    y: 903
+  }
+  vertices {
+    x: 1915
+    y: 905
+  }
+  vertices {
+    x: 1906
+    y: 1102
+  }
+}
+, description: "9"
+bounding_poly {
+  vertices {
+    x: 1884
+    y: 185
+  }
+  vertices {
+    x: 1885
+    y: 151
+  }
+  vertices {
+    x: 1919
+    y: 153
+  }
+  vertices {
+    x: 1918
+    y: 186
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 1886
+    y: 151
+  }
+  vertices {
+    x: 1887
+    y: 117
+  }
+  vertices {
+    x: 1917
+    y: 118
+  }
+  vertices {
+    x: 1916
+    y: 152
+  }
+}
+, description: "6"
+bounding_poly {
+  vertices {
+    x: 1872
+    y: 787
+  }
+  vertices {
+    x: 1873
+    y: 753
+  }
+  vertices {
+    x: 1909
+    y: 755
+  }
+  vertices {
+    x: 1908
+    y: 789
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 1872
+    y: 754
+  }
+  vertices {
+    x: 1874
+    y: 708
+  }
+  vertices {
+    x: 1912
+    y: 710
+  }
+  vertices {
+    x: 1910
+    y: 756
+  }
+}
+, description: "Total"
+bounding_poly {
+  vertices {
+    x: 1886
+    y: 669
+  }
+  vertices {
+    x: 1891
+    y: 546
+  }
+  vertices {
+    x: 1927
+    y: 548
+  }
+  vertices {
+    x: 1922
+    y: 671
+  }
+}
+, description: "Carb"
+bounding_poly {
+  vertices {
+    x: 1886
+    y: 533
+  }
+  vertices {
+    x: 1891
+    y: 428
+  }
+  vertices {
+    x: 1931
+    y: 430
+  }
+  vertices {
+    x: 1926
+    y: 535
+  }
+}
+, description: "."
+bounding_poly {
+  vertices {
+    x: 1891
+    y: 427
+  }
+  vertices {
+    x: 1892
+    y: 407
+  }
+  vertices {
+    x: 1928
+    y: 409
+  }
+  vertices {
+    x: 1927
+    y: 429
+  }
+}
+, description: "24g"
+bounding_poly {
+  vertices {
+    x: 1888
+    y: 387
+  }
+  vertices {
+    x: 1891
+    y: 310
+  }
+  vertices {
+    x: 1937
+    y: 312
+  }
+  vertices {
+    x: 1934
+    y: 389
+  }
+}
+, description: "Dietary"
+bounding_poly {
+  vertices {
+    x: 1951
+    y: 651
+  }
+  vertices {
+    x: 1957
+    y: 515
+  }
+  vertices {
+    x: 2009
+    y: 517
+  }
+  vertices {
+    x: 2003
+    y: 653
+  }
+}
+, description: "Fibar"
+bounding_poly {
+  vertices {
+    x: 1958
+    y: 496
+  }
+  vertices {
+    x: 1962
+    y: 395
+  }
+  vertices {
+    x: 2014
+    y: 397
+  }
+  vertices {
+    x: 2010
+    y: 498
+  }
+}
+, description: "2g"
+bounding_poly {
+  vertices {
+    x: 1962
+    y: 376
+  }
+  vertices {
+    x: 1964
+    y: 332
+  }
+  vertices {
+    x: 2016
+    y: 334
+  }
+  vertices {
+    x: 2014
+    y: 378
+  }
+}
+, description: "Total"
+bounding_poly {
+  vertices {
+    x: 2023
+    y: 661
+  }
+  vertices {
+    x: 2028
+    y: 556
+  }
+  vertices {
+    x: 2078
+    y: 558
+  }
+  vertices {
+    x: 2073
+    y: 663
+  }
+}
+, description: "Sugars"
+bounding_poly {
+  vertices {
+    x: 2029
+    y: 545
+  }
+  vertices {
+    x: 2035
+    y: 403
+  }
+  vertices {
+    x: 2085
+    y: 405
+  }
+  vertices {
+    x: 2079
+    y: 547
+  }
+}
+, description: "5g"
+bounding_poly {
+  vertices {
+    x: 2035
+    y: 383
+  }
+  vertices {
+    x: 2037
+    y: 333
+  }
+  vertices {
+    x: 2087
+    y: 335
+  }
+  vertices {
+    x: 2085
+    y: 385
+  }
+}
+, description: "ola"
+bounding_poly {
+  vertices {
+    x: 1848
+    y: 1952
+  }
+  vertices {
+    x: 1850
+    y: 1898
+  }
+  vertices {
+    x: 1888
+    y: 1900
+  }
+  vertices {
+    x: 1886
+    y: 1954
+  }
+}
+, description: "oi"
+bounding_poly {
+  vertices {
+    x: 1852
+    y: 1884
+  }
+  vertices {
+    x: 1853
+    y: 1860
+  }
+  vertices {
+    x: 1891
+    y: 1862
+  }
+  vertices {
+    x: 1890
+    y: 1886
+  }
+}
+, description: "m"
+bounding_poly {
+  vertices {
+    x: 1903
+    y: 1958
+  }
+  vertices {
+    x: 1903
+    y: 1936
+  }
+  vertices {
+    x: 1927
+    y: 1936
+  }
+  vertices {
+    x: 1927
+    y: 1958
+  }
+}
+, description: "nce"
+bounding_poly {
+  vertices {
+    x: 1903
+    y: 1923
+  }
+  vertices {
+    x: 1903
+    y: 1862
+  }
+  vertices {
+    x: 1929
+    y: 1862
+  }
+  vertices {
+    x: 1929
+    y: 1923
+  }
+}
+, description: "acts"
+bounding_poly {
+  vertices {
+    x: 1888
+    y: 1655
+  }
+  vertices {
+    x: 1897
+    y: 1440
+  }
+  vertices {
+    x: 1960
+    y: 1443
+  }
+  vertices {
+    x: 1951
+    y: 1658
+  }
+}
+, description: "Sat."
+bounding_poly {
+  vertices {
+    x: 1925
+    y: 1208
+  }
+  vertices {
+    x: 1926
+    y: 1129
+  }
+  vertices {
+    x: 1962
+    y: 1129
+  }
+  vertices {
+    x: 1961
+    y: 1208
+  }
+}
+, description: "Fat"
+bounding_poly {
+  vertices {
+    x: 1927
+    y: 1112
+  }
+  vertices {
+    x: 1928
+    y: 1047
+  }
+  vertices {
+    x: 1964
+    y: 1047
+  }
+  vertices {
+    x: 1963
+    y: 1112
+  }
+}
+, description: "0g"
+bounding_poly {
+  vertices {
+    x: 1929
+    y: 1031
+  }
+  vertices {
+    x: 1930
+    y: 981
+  }
+  vertices {
+    x: 1974
+    y: 982
+  }
+  vertices {
+    x: 1973
+    y: 1032
+  }
+}
+, description: "on"
+bounding_poly {
+  vertices {
+    x: 2004
+    y: 1943
+  }
+  vertices {
+    x: 2003
+    y: 1897
+  }
+  vertices {
+    x: 2078
+    y: 1895
+  }
+  vertices {
+    x: 2079
+    y: 1941
+  }
+}
+, description: "gum"
+bounding_poly {
+  vertices {
+    x: 2002
+    y: 1870
+  }
+  vertices {
+    x: 2000
+    y: 1807
+  }
+  vertices {
+    x: 2075
+    y: 1805
+  }
+  vertices {
+    x: 2077
+    y: 1868
+  }
+}
+, description: "erving"
+bounding_poly {
+  vertices {
+    x: 1996
+    y: 1740
+  }
+  vertices {
+    x: 1987
+    y: 1456
+  }
+  vertices {
+    x: 2062
+    y: 1454
+  }
+  vertices {
+    x: 2071
+    y: 1738
+  }
+}
+, description: "size"
+bounding_poly {
+  vertices {
+    x: 1986
+    y: 1415
+  }
+  vertices {
+    x: 1982
+    y: 1287
+  }
+  vertices {
+    x: 2057
+    y: 1285
+  }
+  vertices {
+    x: 2061
+    y: 1413
+  }
+}
+, description: "Trans"
+bounding_poly {
+  vertices {
+    x: 1982
+    y: 1246
+  }
+  vertices {
+    x: 1977
+    y: 1092
+  }
+  vertices {
+    x: 2052
+    y: 1090
+  }
+  vertices {
+    x: 2057
+    y: 1244
+  }
+}
+, description: "Fat"
+bounding_poly {
+  vertices {
+    x: 1976
+    y: 1078
+  }
+  vertices {
+    x: 1974
+    y: 1015
+  }
+  vertices {
+    x: 2049
+    y: 1013
+  }
+  vertices {
+    x: 2051
+    y: 1076
+  }
+}
+, description: "0g"
+bounding_poly {
+  vertices {
+    x: 1972
+    y: 986
+  }
+  vertices {
+    x: 1971
+    y: 950
+  }
+  vertices {
+    x: 2046
+    y: 948
+  }
+  vertices {
+    x: 2047
+    y: 984
+  }
+}
+, description: "oud"
+bounding_poly {
+  vertices {
+    x: 2051
+    y: 1951
+  }
+  vertices {
+    x: 2053
+    y: 1856
+  }
+  vertices {
+    x: 2148
+    y: 1858
+  }
+  vertices {
+    x: 2146
+    y: 1953
+  }
+}
+, description: "r"
+bounding_poly {
+  vertices {
+    x: 2055
+    y: 1661
+  }
+  vertices {
+    x: 2058
+    y: 1535
+  }
+  vertices {
+    x: 2153
+    y: 1537
+  }
+  vertices {
+    x: 2150
+    y: 1663
+  }
+}
+, description: "(35)"
+bounding_poly {
+  vertices {
+    x: 2059
+    y: 1500
+  }
+  vertices {
+    x: 2062
+    y: 1340
+  }
+  vertices {
+    x: 2157
+    y: 1342
+  }
+  vertices {
+    x: 2154
+    y: 1502
+  }
+}
+, description: "t25Ind."
+bounding_poly {
+  vertices {
+    x: 2063
+    y: 1273
+  }
+  vertices {
+    x: 2077
+    y: 564
+  }
+  vertices {
+    x: 2172
+    y: 566
+  }
+  vertices {
+    x: 2158
+    y: 1275
+  }
+}
+, description: "5g"
+bounding_poly {
+  vertices {
+    x: 2077
+    y: 547
+  }
+  vertices {
+    x: 2078
+    y: 515
+  }
+  vertices {
+    x: 2173
+    y: 517
+  }
+  vertices {
+    x: 2172
+    y: 549
+  }
+}
+, description: "Added"
+bounding_poly {
+  vertices {
+    x: 2078
+    y: 482
+  }
+  vertices {
+    x: 2080
+    y: 387
+  }
+  vertices {
+    x: 2175
+    y: 389
+  }
+  vertices {
+    x: 2173
+    y: 484
+  }
+}
+, description: "ug"
+bounding_poly {
+  vertices {
+    x: 2080
+    y: 352
+  }
+  vertices {
+    x: 2081
+    y: 306
+  }
+  vertices {
+    x: 2176
+    y: 308
+  }
+  vertices {
+    x: 2175
+    y: 354
+  }
+}
+, description: "le"
+bounding_poly {
+  vertices {
+    x: 2163
+    y: 1954
+  }
+  vertices {
+    x: 2164
+    y: 1934
+  }
+  vertices {
+    x: 2241
+    y: 1937
+  }
+  vertices {
+    x: 2240
+    y: 1957
+  }
+}
+, description: "powder,"
+bounding_poly {
+  vertices {
+    x: 2165
+    y: 1919
+  }
+  vertices {
+    x: 2171
+    y: 1789
+  }
+  vertices {
+    x: 2248
+    y: 1792
+  }
+  vertices {
+    x: 2242
+    y: 1922
+  }
+}
+, description: "Calories"
+bounding_poly {
+  vertices {
+    x: 2173
+    y: 1746
+  }
+  vertices {
+    x: 2185
+    y: 1468
+  }
+  vertices {
+    x: 2262
+    y: 1472
+  }
+  vertices {
+    x: 2250
+    y: 1749
+  }
+}
+, description: "Polyunsat"
+bounding_poly {
+  vertices {
+    x: 2049
+    y: 1202
+  }
+  vertices {
+    x: 2049
+    y: 1009
+  }
+  vertices {
+    x: 2087
+    y: 1009
+  }
+  vertices {
+    x: 2087
+    y: 1202
+  }
+}
+, description: "Fat"
+bounding_poly {
+  vertices {
+    x: 2049
+    y: 996
+  }
+  vertices {
+    x: 2049
+    y: 936
+  }
+  vertices {
+    x: 2087
+    y: 936
+  }
+  vertices {
+    x: 2087
+    y: 996
+  }
+}
+, description: "1g"
+bounding_poly {
+  vertices {
+    x: 2051
+    y: 919
+  }
+  vertices {
+    x: 2051
+    y: 873
+  }
+  vertices {
+    x: 2087
+    y: 873
+  }
+  vertices {
+    x: 2087
+    y: 919
+  }
+}
+, description: "961"
+bounding_poly {
+  vertices {
+    x: 2090
+    y: 169
+  }
+  vertices {
+    x: 2090
+    y: 115
+  }
+  vertices {
+    x: 2134
+    y: 115
+  }
+  vertices {
+    x: 2134
+    y: 169
+  }
+}
+, description: "Incl."
+bounding_poly {
+  vertices {
+    x: 2106
+    y: 635
+  }
+  vertices {
+    x: 2106
+    y: 560
+  }
+  vertices {
+    x: 2142
+    y: 560
+  }
+  vertices {
+    x: 2142
+    y: 635
+  }
+}
+, description: "5g"
+bounding_poly {
+  vertices {
+    x: 2108
+    y: 553
+  }
+  vertices {
+    x: 2108
+    y: 499
+  }
+  vertices {
+    x: 2150
+    y: 499
+  }
+  vertices {
+    x: 2150
+    y: 553
+  }
+}
+, description: "Added"
+bounding_poly {
+  vertices {
+    x: 2108
+    y: 498
+  }
+  vertices {
+    x: 2108
+    y: 374
+  }
+  vertices {
+    x: 2146
+    y: 374
+  }
+  vertices {
+    x: 2146
+    y: 498
+  }
+}
+, description: "Sugars"
+bounding_poly {
+  vertices {
+    x: 2108
+    y: 374
+  }
+  vertices {
+    x: 2108
+    y: 224
+  }
+  vertices {
+    x: 2156
+    y: 224
+  }
+  vertices {
+    x: 2156
+    y: 374
+  }
+}
+, description: "10"
+bounding_poly {
+  vertices {
+    x: 2098
+    y: 224
+  }
+  vertices {
+    x: 2098
+    y: 174
+  }
+  vertices {
+    x: 2132
+    y: 174
+  }
+  vertices {
+    x: 2132
+    y: 224
+  }
+}
+, description: "Sugar"
+bounding_poly {
+  vertices {
+    x: 2173
+    y: 667
+  }
+  vertices {
+    x: 2173
+    y: 539
+  }
+  vertices {
+    x: 2219
+    y: 539
+  }
+  vertices {
+    x: 2219
+    y: 667
+  }
+}
+, description: "Alcoho"
+bounding_poly {
+  vertices {
+    x: 2171
+    y: 523
+  }
+  vertices {
+    x: 2171
+    y: 371
+  }
+  vertices {
+    x: 2211
+    y: 371
+  }
+  vertices {
+    x: 2211
+    y: 523
+  }
+}
+, description: "Protein"
+bounding_poly {
+  vertices {
+    x: 2244
+    y: 691
+  }
+  vertices {
+    x: 2244
+    y: 521
+  }
+  vertices {
+    x: 2282
+    y: 521
+  }
+  vertices {
+    x: 2282
+    y: 691
+  }
+}
+, description: "3g"
+bounding_poly {
+  vertices {
+    x: 2246
+    y: 507
+  }
+  vertices {
+    x: 2246
+    y: 453
+  }
+  vertices {
+    x: 2290
+    y: 453
+  }
+  vertices {
+    x: 2290
+    y: 507
+  }
+}
+, description: "mon,"
+bounding_poly {
+  vertices {
+    x: 2035
+    y: 1956
+  }
+  vertices {
+    x: 2038
+    y: 1879
+  }
+  vertices {
+    x: 2068
+    y: 1880
+  }
+  vertices {
+    x: 2065
+    y: 1957
+  }
+}
+, description: "gum"
+bounding_poly {
+  vertices {
+    x: 2035
+    y: 1868
+  }
+  vertices {
+    x: 2038
+    y: 1793
+  }
+  vertices {
+    x: 2076
+    y: 1795
+  }
+  vertices {
+    x: 2073
+    y: 1870
+  }
+}
+, description: "Monounsat"
+bounding_poly {
+  vertices {
+    x: 2114
+    y: 1206
+  }
+  vertices {
+    x: 2118
+    y: 997
+  }
+  vertices {
+    x: 2154
+    y: 998
+  }
+  vertices {
+    x: 2150
+    y: 1207
+  }
+}
+, description: "Fat"
+bounding_poly {
+  vertices {
+    x: 2116
+    y: 984
+  }
+  vertices {
+    x: 2117
+    y: 926
+  }
+  vertices {
+    x: 2155
+    y: 927
+  }
+  vertices {
+    x: 2154
+    y: 985
+  }
+}
+, description: "Cholesterol"
+bounding_poly {
+  vertices {
+    x: 2177
+    y: 1242
+  }
+  vertices {
+    x: 2182
+    y: 968
+  }
+  vertices {
+    x: 2218
+    y: 969
+  }
+  vertices {
+    x: 2213
+    y: 1243
+  }
+}
+, description: "0mg"
+bounding_poly {
+  vertices {
+    x: 2179
+    y: 952
+  }
+  vertices {
+    x: 2181
+    y: 859
+  }
+  vertices {
+    x: 2229
+    y: 860
+  }
+  vertices {
+    x: 2227
+    y: 953
+  }
+}
+, description: "0"
+bounding_poly {
+  vertices {
+    x: 2187
+    y: 799
+  }
+  vertices {
+    x: 2187
+    y: 771
+  }
+  vertices {
+    x: 2223
+    y: 772
+  }
+  vertices {
+    x: 2223
+    y: 800
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 2187
+    y: 769
+  }
+  vertices {
+    x: 2188
+    y: 727
+  }
+  vertices {
+    x: 2224
+    y: 728
+  }
+  vertices {
+    x: 2223
+    y: 770
+  }
+}
+, description: "Sodium"
+bounding_poly {
+  vertices {
+    x: 2242
+    y: 1242
+  }
+  vertices {
+    x: 2245
+    y: 1066
+  }
+  vertices {
+    x: 2281
+    y: 1067
+  }
+  vertices {
+    x: 2278
+    y: 1243
+  }
+}
+, description: "95mg"
+bounding_poly {
+  vertices {
+    x: 2244
+    y: 1047
+  }
+  vertices {
+    x: 2246
+    y: 930
+  }
+  vertices {
+    x: 2294
+    y: 931
+  }
+  vertices {
+    x: 2292
+    y: 1048
+  }
+}
+, description: "Vitamin"
+bounding_poly {
+  vertices {
+    x: 2319
+    y: 1246
+  }
+  vertices {
+    x: 2319
+    y: 1096
+  }
+  vertices {
+    x: 2355
+    y: 1096
+  }
+  vertices {
+    x: 2355
+    y: 1246
+  }
+}
+, description: "D"
+bounding_poly {
+  vertices {
+    x: 2319
+    y: 1074
+  }
+  vertices {
+    x: 2319
+    y: 1050
+  }
+  vertices {
+    x: 2357
+    y: 1050
+  }
+  vertices {
+    x: 2357
+    y: 1074
+  }
+}
+, description: "0"
+bounding_poly {
+  vertices {
+    x: 2319
+    y: 1031
+  }
+  vertices {
+    x: 2319
+    y: 1009
+  }
+  vertices {
+    x: 2357
+    y: 1009
+  }
+  vertices {
+    x: 2357
+    y: 1031
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 2321
+    y: 1006
+  }
+  vertices {
+    x: 2321
+    y: 970
+  }
+  vertices {
+    x: 2357
+    y: 970
+  }
+  vertices {
+    x: 2357
+    y: 1006
+  }
+}
+, description: "."
+bounding_poly {
+  vertices {
+    x: 2334
+    y: 950
+  }
+  vertices {
+    x: 2334
+    y: 936
+  }
+  vertices {
+    x: 2346
+    y: 936
+  }
+  vertices {
+    x: 2346
+    y: 950
+  }
+}
+, description: "Calcium"
+bounding_poly {
+  vertices {
+    x: 2321
+    y: 917
+  }
+  vertices {
+    x: 2321
+    y: 759
+  }
+  vertices {
+    x: 2357
+    y: 759
+  }
+  vertices {
+    x: 2357
+    y: 917
+  }
+}
+, description: "2"
+bounding_poly {
+  vertices {
+    x: 2321
+    y: 740
+  }
+  vertices {
+    x: 2321
+    y: 718
+  }
+  vertices {
+    x: 2357
+    y: 718
+  }
+  vertices {
+    x: 2357
+    y: 740
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 2323
+    y: 714
+  }
+  vertices {
+    x: 2323
+    y: 680
+  }
+  vertices {
+    x: 2357
+    y: 680
+  }
+  vertices {
+    x: 2357
+    y: 714
+  }
+}
+, description: "."
+bounding_poly {
+  vertices {
+    x: 2334
+    y: 659
+  }
+  vertices {
+    x: 2334
+    y: 647
+  }
+  vertices {
+    x: 2346
+    y: 647
+  }
+  vertices {
+    x: 2346
+    y: 659
+  }
+}
+, description: "Iron"
+bounding_poly {
+  vertices {
+    x: 2323
+    y: 629
+  }
+  vertices {
+    x: 2323
+    y: 556
+  }
+  vertices {
+    x: 2357
+    y: 556
+  }
+  vertices {
+    x: 2357
+    y: 629
+  }
+}
+, description: "6"
+bounding_poly {
+  vertices {
+    x: 2323
+    y: 537
+  }
+  vertices {
+    x: 2323
+    y: 515
+  }
+  vertices {
+    x: 2357
+    y: 515
+  }
+  vertices {
+    x: 2357
+    y: 537
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 2323
+    y: 509
+  }
+  vertices {
+    x: 2323
+    y: 477
+  }
+  vertices {
+    x: 2355
+    y: 477
+  }
+  vertices {
+    x: 2355
+    y: 509
+  }
+}
+, description: "."
+bounding_poly {
+  vertices {
+    x: 2334
+    y: 456
+  }
+  vertices {
+    x: 2334
+    y: 444
+  }
+  vertices {
+    x: 2344
+    y: 444
+  }
+  vertices {
+    x: 2344
+    y: 456
+  }
+}
+, description: "P"
+bounding_poly {
+  vertices {
+    x: 2321
+    y: 427
+  }
+  vertices {
+    x: 2321
+    y: 395
+  }
+  vertices {
+    x: 2353
+    y: 395
+  }
+  vertices {
+    x: 2353
+    y: 427
+  }
+}
+, description: "rown"
+bounding_poly {
+  vertices {
+    x: 2132
+    y: 1958
+  }
+  vertices {
+    x: 2132
+    y: 1871
+  }
+  vertices {
+    x: 2160
+    y: 1871
+  }
+  vertices {
+    x: 2160
+    y: 1958
+  }
+}
+, description: "nce"
+bounding_poly {
+  vertices {
+    x: 2132
+    y: 1860
+  }
+  vertices {
+    x: 2132
+    y: 1800
+  }
+  vertices {
+    x: 2160
+    y: 1800
+  }
+  vertices {
+    x: 2160
+    y: 1860
+  }
+}
+, description: "4"
+bounding_poly {
+  vertices {
+    x: 2252
+    y: 801
+  }
+  vertices {
+    x: 2252
+    y: 773
+  }
+  vertices {
+    x: 2286
+    y: 773
+  }
+  vertices {
+    x: 2286
+    y: 801
+  }
+}
+, description: "%"
+bounding_poly {
+  vertices {
+    x: 2250
+    y: 769
+  }
+  vertices {
+    x: 2250
+    y: 729
+  }
+  vertices {
+    x: 2286
+    y: 729
+  }
+  vertices {
+    x: 2286
+    y: 769
+  }
+}
+, description: "per"
+bounding_poly {
+  vertices {
+    x: 2262
+    y: 1712
+  }
+  vertices {
+    x: 2262
+    y: 1637
+  }
+  vertices {
+    x: 2304
+    y: 1637
+  }
+  vertices {
+    x: 2304
+    y: 1712
+  }
+}
+, description: "serving"
+bounding_poly {
+  vertices {
+    x: 2262
+    y: 1622
+  }
+  vertices {
+    x: 2262
+    y: 1460
+  }
+  vertices {
+    x: 2296
+    y: 1460
+  }
+  vertices {
+    x: 2296
+    y: 1622
+  }
+}
+, description: "Ssium"
+bounding_poly {
+  vertices {
+    x: 2321
+    y: 340
+  }
+  vertices {
+    x: 2321
+    y: 231
+  }
+  vertices {
+    x: 2353
+    y: 231
+  }
+  vertices {
+    x: 2353
+    y: 340
+  }
+}
+, description: "Allergen"
+bounding_poly {
+  vertices {
+    x: 2384
+    y: 1744
+  }
+  vertices {
+    x: 2384
+    y: 1578
+  }
+  vertices {
+    x: 2424
+    y: 1578
+  }
+  vertices {
+    x: 2424
+    y: 1744
+  }
+}
+, description: "Information:"
+bounding_poly {
+  vertices {
+    x: 2386
+    y: 1561
+  }
+  vertices {
+    x: 2386
+    y: 1318
+  }
+  vertices {
+    x: 2418
+    y: 1318
+  }
+  vertices {
+    x: 2418
+    y: 1561
+  }
+}
+, description: "Made"
+bounding_poly {
+  vertices {
+    x: 2386
+    y: 1301
+  }
+  vertices {
+    x: 2386
+    y: 1202
+  }
+  vertices {
+    x: 2416
+    y: 1202
+  }
+  vertices {
+    x: 2416
+    y: 1301
+  }
+}
+, description: "in"
+bounding_poly {
+  vertices {
+    x: 2388
+    y: 1187
+  }
+  vertices {
+    x: 2388
+    y: 1157
+  }
+  vertices {
+    x: 2416
+    y: 1157
+  }
+  vertices {
+    x: 2416
+    y: 1187
+  }
+}
+, description: "a"
+bounding_poly {
+  vertices {
+    x: 2393
+    y: 1141
+  }
+  vertices {
+    x: 2393
+    y: 1121
+  }
+  vertices {
+    x: 2417
+    y: 1121
+  }
+  vertices {
+    x: 2417
+    y: 1141
+  }
+}
+, description: "facility"
+bounding_poly {
+  vertices {
+    x: 2388
+    y: 1108
+  }
+  vertices {
+    x: 2388
+    y: 987
+  }
+  vertices {
+    x: 2424
+    y: 987
+  }
+  vertices {
+    x: 2424
+    y: 1108
+  }
+}
+, description: "that"
+bounding_poly {
+  vertices {
+    x: 2390
+    y: 976
+  }
+  vertices {
+    x: 2390
+    y: 905
+  }
+  vertices {
+    x: 2418
+    y: 905
+  }
+  vertices {
+    x: 2418
+    y: 976
+  }
+}
+, description: "processes"
+bounding_poly {
+  vertices {
+    x: 2395
+    y: 891
+  }
+  vertices {
+    x: 2395
+    y: 709
+  }
+  vertices {
+    x: 2421
+    y: 709
+  }
+  vertices {
+    x: 2421
+    y: 891
+  }
+}
+, description: "peanuts,"
+bounding_poly {
+  vertices {
+    x: 2390
+    y: 696
+  }
+  vertices {
+    x: 2390
+    y: 542
+  }
+  vertices {
+    x: 2422
+    y: 542
+  }
+  vertices {
+    x: 2422
+    y: 696
+  }
+}
+, description: "tree"
+bounding_poly {
+  vertices {
+    x: 2390
+    y: 529
+  }
+  vertices {
+    x: 2390
+    y: 460
+  }
+  vertices {
+    x: 2420
+    y: 460
+  }
+  vertices {
+    x: 2420
+    y: 529
+  }
+}
+, description: "nuts,"
+bounding_poly {
+  vertices {
+    x: 2392
+    y: 446
+  }
+  vertices {
+    x: 2392
+    y: 355
+  }
+  vertices {
+    x: 2420
+    y: 355
+  }
+  vertices {
+    x: 2420
+    y: 446
+  }
+}
+, description: "soy"
+bounding_poly {
+  vertices {
+    x: 2392
+    y: 340
+  }
+  vertices {
+    x: 2392
+    y: 286
+  }
+  vertices {
+    x: 2420
+    y: 286
+  }
+  vertices {
+    x: 2420
+    y: 340
+  }
+}
+, description: "and"
+bounding_poly {
+  vertices {
+    x: 2384
+    y: 275
+  }
+  vertices {
+    x: 2384
+    y: 212
+  }
+  vertices {
+    x: 2414
+    y: 212
+  }
+  vertices {
+    x: 2414
+    y: 275
+  }
+}
+, description: "sesame"
+bounding_poly {
+  vertices {
+    x: 2437
+    y: 1738
+  }
+  vertices {
+    x: 2435
+    y: 1596
+  }
+  vertices {
+    x: 2455
+    y: 1596
+  }
+  vertices {
+    x: 2457
+    y: 1738
+  }
+}
+, description: "seeds"
+bounding_poly {
+  vertices {
+    x: 2431
+    y: 1580
+  }
+  vertices {
+    x: 2429
+    y: 1473
+  }
+  vertices {
+    x: 2453
+    y: 1473
+  }
+  vertices {
+    x: 2455
+    y: 1580
+  }
+}
+, description: "6"
+bounding_poly {
+  vertices {
+    x: 2970
+    y: 1413
+  }
+  vertices {
+    x: 2969
+    y: 1399
+  }
+  vertices {
+    x: 3021
+    y: 1397
+  }
+  vertices {
+    x: 3022
+    y: 1411
+  }
+}
+, description: "Made"
+bounding_poly {
+  vertices {
+    x: 2968
+    y: 1360
+  }
+  vertices {
+    x: 2960
+    y: 1184
+  }
+  vertices {
+    x: 3012
+    y: 1182
+  }
+  vertices {
+    x: 3020
+    y: 1358
+  }
+}
+, description: "in"
+bounding_poly {
+  vertices {
+    x: 2960
+    y: 1167
+  }
+  vertices {
+    x: 2958
+    y: 1131
+  }
+  vertices {
+    x: 3010
+    y: 1129
+  }
+  vertices {
+    x: 3012
+    y: 1165
+  }
+}
+, description: "U.S.A."
+bounding_poly {
+  vertices {
+    x: 2957
+    y: 1114
+  }
+  vertices {
+    x: 2950
+    y: 964
+  }
+  vertices {
+    x: 3002
+    y: 962
+  }
+  vertices {
+    x: 3009
+    y: 1112
+  }
+}
+, description: "with"
+bounding_poly {
+  vertices {
+    x: 2951
+    y: 944
+  }
+  vertices {
+    x: 2947
+    y: 857
+  }
+  vertices {
+    x: 2999
+    y: 855
+  }
+  vertices {
+    x: 3003
+    y: 942
+  }
+}
+, description: "donm"
+bounding_poly {
+  vertices {
+    x: 2945
+    y: 830
+  }
+  vertices {
+    x: 2941
+    y: 743
+  }
+  vertices {
+    x: 2993
+    y: 741
+  }
+  vertices {
+    x: 2997
+    y: 828
+  }
+}
+, description: "and"
+bounding_poly {
+  vertices {
+    x: 3025
+    y: 1315
+  }
+  vertices {
+    x: 3021
+    y: 1228
+  }
+  vertices {
+    x: 3061
+    y: 1226
+  }
+  vertices {
+    x: 3065
+    y: 1313
+  }
+}
+, description: "imported"
+bounding_poly {
+  vertices {
+    x: 3022
+    y: 1210
+  }
+  vertices {
+    x: 3013
+    y: 995
+  }
+  vertices {
+    x: 3061
+    y: 993
+  }
+  vertices {
+    x: 3070
+    y: 1208
+  }
+}
+, description: "ingredient"
+bounding_poly {
+  vertices {
+    x: 3010
+    y: 976
+  }
+  vertices {
+    x: 3000
+    y: 745
+  }
+  vertices {
+    x: 3046
+    y: 743
+  }
+  vertices {
+    x: 3056
+    y: 974
+  }
+}
+, description: "884"
+bounding_poly {
+  vertices {
+    x: 3033
+    y: 332
+  }
+  vertices {
+    x: 3031
+    y: 276
+  }
+  vertices {
+    x: 3067
+    y: 274
+  }
+  vertices {
+    x: 3069
+    y: 330
+  }
+}
+, description: "IND"
+bounding_poly {
+  vertices {
+    x: 3029
+    y: 263
+  }
+  vertices {
+    x: 3026
+    y: 186
+  }
+  vertices {
+    x: 3062
+    y: 185
+  }
+  vertices {
+    x: 3065
+    y: 261
+  }
+}
+]
