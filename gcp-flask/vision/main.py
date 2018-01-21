@@ -19,7 +19,7 @@ def homepage():
     # Use the Cloud Datastore client to fetch information from Datastore about
     # each photo.
     query = datastore_client.query(kind='Photos')
-    image_entities = list(query.fetch())    
+    image_entities = list(query.fetch())
 
     # Return a Jinja2 HTML template.
     return render_template('homepage.html', image_entities=image_entities)
@@ -30,7 +30,8 @@ def upload_photo():
     storage_client = storage.Client()
 
     # Get the Cloud Storage bucket that the file will be uploaded to.
-    bucket = storage_client.get_bucket(os.environ.get('CLOUD_STORAGE_BUCKET'))
+    # bucket = storage_client.get_bucket(os.environ.get('CLOUD_STORAGE_BUCKET'))
+    # NOTE: using a sysVariables.json file instead because sysVariables are funky on Windows
 
     # Create a new blob and upload the file's content to Cloud Storage.
     photo = request.files['file']
@@ -41,7 +42,7 @@ def upload_photo():
     # Make the blob publicly viewable.
     blob.make_public()
     image_public_url = blob.public_url
-    
+
     # Create a Cloud Vision client.
     vision_client = vision.ImageAnnotatorClient()
 
