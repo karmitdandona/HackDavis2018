@@ -9,6 +9,7 @@ from google.cloud import datastore
 from google.cloud import storage
 from google.cloud import vision
 from google.cloud.vision import types
+from google.cloud import translate
 
 
 app = Flask(__name__)
@@ -88,6 +89,7 @@ def upload_photo():
 
 
 
+
     allergens = ["almond", "flour", "peanut", "sugar", "cacao"]
 
     image = types.Image()
@@ -95,19 +97,36 @@ def upload_photo():
     response = vision_client.text_detection(image=image)
     texts = response.text_annotations
 
-    description = '\n"{}"'.format(texts[0].description)
+    try:
+        description = '\n"{}"'.format(texts[0].description)
+    except IndexError:
+        description = ""
+        print("NO TEXT LOCATED IN IMAGE")
     description = description.lower()
-    results = {} 	#dictionary containing matches
+    # results = {} 	#dictionary containing matches
+    # for badIngredients in allergens:
+    #     if badIngredients in description:
+    #         results[badIngredients] = True
+    #     else:
+    #         results[badIngredients] = False
+
+    results = ""
     for badIngredients in allergens:
         if badIngredients in description:
-            results[badIngredients] = True
-        else:
-            results[badIngredients] = False
+            results = results + str(badIngredients) + ", "
+
+    # TODO: have an exception raised on line 99 if IndexError. also have a print(results) before the return so we can see the dict in logs
+    # TODO: check if translation is working
+
+    translateClient = translate.Client()
 
 
 
-    # Redirect to the home page.
-    return results
+
+
+    # Redirect to the home page.  NOTE: now returns the dict
+    print(results)
+    return str(results)
 
 
 @app.errorhandler(500)
