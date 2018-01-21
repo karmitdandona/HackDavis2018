@@ -1,11 +1,14 @@
 import base64
 import os
 import sys
+import json
+import requests
 
 from flask import Flask, redirect, render_template, request
 from google.cloud import datastore
 from google.cloud import storage
 from google.cloud import vision
+from google.cloud.vision import types
 
 
 app = Flask(__name__)
@@ -32,6 +35,9 @@ def upload_photo():
     # Get the Cloud Storage bucket that the file will be uploaded to.
     # bucket = storage_client.get_bucket(os.environ.get('CLOUD_STORAGE_BUCKET'))
     # NOTE: using a sysVariables.json file instead because sysVariables are funky on Windows
+    with open('sysVariables.json') as data_file:
+        data = json.load(data_file)
+    bucket = storage_client.get_bucket(data['CLOUD_STORAGE_BUCKET'])
 
     # Create a new blob and upload the file's content to Cloud Storage.
     photo = request.files['file']
@@ -47,7 +53,7 @@ def upload_photo():
     vision_client = vision.ImageAnnotatorClient()
 
     # Retrieve a Vision API response for the photo stored in Cloud Storage
-    source_uri = 'gs://{}/{}'.format(os.environ.get('CLOUD_STORAGE_BUCKET'), blob.name)
+    source_uri = 'gs://{}/{}'.format(data['CLOUD_STORAGE_BUCKET'], blob.name)
     response = vision_client.annotate_image({
         'image': {'source': {'image_uri': source_uri}},
     })
@@ -80,8 +86,18 @@ def upload_photo():
     # Save the new entity to Datastore
     datastore_client.put(entity)
 
+
+
+    image = types.Image()
+    image.source.image_uri = source_uri
+    response = vision_client.text_detection(image=image)
+    texts = response.text_annotations
+    print(texts)
+
+
+
     # Redirect to the home page.
-    return render_template('homepage.html', labels=labels, faces=faces, web_entities=web_entities, public_url=image_public_url)
+    return "YAY it works!!!"
 
 
 @app.errorhandler(500)
