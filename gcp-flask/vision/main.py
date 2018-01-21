@@ -89,8 +89,7 @@ def upload_photo():
 
 
 
-
-    allergens = ["almond", "flour", "peanut", "sugar", "cacao"]
+    allergens = ["egg", "soy", "gluten", "wheat", "fish", "shrimp", "prawn", "corn", "gelatin", "dairy", "lactose", "yogurt", "cheese", "caffeine", "alcohol", "milk", "cashew", "walnut", "pistachios", "tree nut", "almond", "flour", "peanut", "sugar", "salt", "cacao", "garlic", "mustard", "seed", "kiwi", "pineapple", "apple", "orange", "strawberry", "strawberries", "blueberries", "blueberry", "blackberry", "blackberries", "bannana", "celery", "peach", "avocado", "tomato", "tomatoes", "potato", "potatoes", "corn syrup", "vanilla"]
 
     image = types.Image()
     image.source.image_uri = source_uri
