@@ -2,12 +2,9 @@ import json
 
 from pprint import pprint
 
-def main(allergens):
-	#allergens = ["almonds", "flour", "peanuts", "sugar", "cacao"] 
+def main():
+	allergens = ["almonds", "flour", "peanuts", "sugar", "cacao"] 
 	result = checkIngredients(allergens, 'input.json')
-
-	if len(result) == 0:
-		print("No problem")
 
 	return result
 
