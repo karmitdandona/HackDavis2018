@@ -102,7 +102,7 @@ def upload_photo():
     except IndexError:
         description = ""
         print("NO TEXT LOCATED IN IMAGE")
-    description = description.lower()
+        return("Nothing found.")
     # results = {} 	#dictionary containing matches
     # for badIngredients in allergens:
     #     if badIngredients in description:
@@ -110,21 +110,29 @@ def upload_photo():
     #     else:
     #         results[badIngredients] = False
 
+
+    # language detection:
+    translateClient = translate.Client()
+    languageResultRaw = translateClient.detect_language(description)
+    languageResult = "{}".format(languageResultRaw['language'])
+
+
+    # translation of language into English, given the detected language from above:
+    translateClient = translate.Client()
+    translatedDescriptionRaw = translateClient.translate(description, target_language='en')
+    translatedDescription = "{}".format(translatedDescriptionRaw['translatedText'])
+    translatedDescription = translatedDescription.lower()
+
+
     results = ""
     for badIngredients in allergens:
-        if badIngredients in description:
+        if badIngredients in translatedDescription:
             results = results + str(badIngredients) + ", "
 
-    # TODO: have an exception raised on line 99 if IndexError. also have a print(results) before the return so we can see the dict in logs
-    # TODO: check if translation is working
-
-    translateClient = translate.Client()
 
 
 
-
-
-    # Redirect to the home page.  NOTE: now returns the dict
+    # Redirect to the home page.  NOTE: now returns a comma separated string of only the true results
     print(results)
     return str(results)
 
